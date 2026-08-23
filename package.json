@@ -1,6 +1,6 @@
 {
   "name": "@sektek/generator-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Yeoman-test helpers shared across every @sektek generator package's specs",
   "author": "Edward Kelly <eddie@sektek.net>",
   "repository": {
