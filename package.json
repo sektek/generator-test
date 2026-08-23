@@ -30,6 +30,7 @@
   "dependencies": {
     "@yeoman/adapter": "^4.0.2",
     "tslib": "^2.8.1",
+    "yeoman-environment": "^6.1.0",
     "yeoman-generator": "^8.2.2",
     "yeoman-test": "^11.2.0"
   },
